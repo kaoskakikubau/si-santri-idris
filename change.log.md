@@ -1,5 +1,11 @@
 SHA Commit [null],
-Judul [now],
+Judul [fix_some_issues],
+1. update composer
+2. remove "spatie/laravel-permission"
+3. clean up junk files
+------------------------------------------------------
+SHA Commit [52973d86cd5d77588f399d29ba478f845a7bd3a2],
+Judul [last_update],
 1. add more controller
 2. implementing user policy
 3. create 'profil' controller
